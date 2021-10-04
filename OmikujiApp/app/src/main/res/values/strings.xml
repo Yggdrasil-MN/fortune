@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">OmikujiApp</string>
+
+    <!-- MainActivity components -->
+    <string name="text_description_app">今日の運勢を占ってみましょう！</string>
+    <string name="text_click_draw">おみくじを引く</string>
+
+    <!-- SettingsActivity components -->
+    <string name="component_button_settings">設定</string>
+    <string name="key_user_name">user_name</string>
+    <string name="title_user_name">ユーザー名</string>
+    <string name="title_birthday">生年月日</string>
+    <string name="desc_user_name">ここをタップしてユーザー名を入力してください</string>
+    <string name="desc_birthday">ここをタップして生年月日を入力してください</string>
+</resources>

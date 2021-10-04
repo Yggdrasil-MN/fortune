@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--- main activity components -->
+    <dimen name="size_text_date">28sp</dimen>
+    <dimen name="size_padding_text_date">50dp</dimen>
+</resources>
